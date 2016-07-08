@@ -1,0 +1,12 @@
+{
+    "require": {
+        "slim/slim": "*",
+        "illuminate/database": "*",
+        "illuminate/contracts": "*",
+        "fkooman/oauth-client": "*",
+        "slim/php-view": "^2.1"
+    },
+    "autoload": {
+        "classmap": ["app/", "public/"]
+    }
+}
