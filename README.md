@@ -10,6 +10,3 @@ To install it just dump `schema.sql` in your database, and update the database d
 * Multilanguage support
 * Remove any remaining logic in views
 * Process stats in the background
-
-## Known issues
-* Purchases through the new Uber Eats app don't have an image
