@@ -1,4 +1,6 @@
 # Ride Totals
+**NOTE: Uber discontinued the Public API. The code in this repository no longer works.**
+
 A simple web application that uses the Uber API to retrieve your rides and create a stats summary. It uses [Slim Framework](http://www.slimframework.com/), [Eloquent ORM](https://github.com/illuminate/database) and [php-oauth-client](https://github.com/fkooman/php-oauth-client).
 
 ## Install
